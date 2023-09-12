@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        int te-dev2 = 0;
+        private String insuredMarriage;
         System.out.println(MESSAGE);
     }
 
